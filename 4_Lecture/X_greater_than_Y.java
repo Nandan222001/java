@@ -9,5 +9,7 @@ public class X_greater_than_Y {
     int y=sc.nextInt();
     System.out.println(x>y);
   }
+
+  //new
   
 }
