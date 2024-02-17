@@ -7,6 +7,7 @@ public class Palindrome {
     int rem, rev=0;
     int temp=0;
     temp=num;
+    sc.close();
     
     while(num>0) {
       rem = num % 10;

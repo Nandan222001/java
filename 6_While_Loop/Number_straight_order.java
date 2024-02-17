@@ -7,6 +7,6 @@ public class Number_straight_order {
       System.out.println(i);
       i++;
     }
-
+    sc.close();
   }
 }
