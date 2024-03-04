@@ -1,5 +1,5 @@
 import java.util.*;
-public class Continuous_Addition {
+public class _8_Continuous_addition {
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     int choice=1;
