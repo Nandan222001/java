@@ -10,5 +10,6 @@ public class Voting_age {
     else {
       System.out.println("You can't Vote.");
     }
+    sc.close();
   }
 }

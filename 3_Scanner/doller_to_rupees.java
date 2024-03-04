@@ -11,7 +11,7 @@ public class doller_to_rupees {
     else {
       System.out.println("$"+doller+" US Dollers means "+rupees+" RS Indian Rupees.");
     }
-    
+    sc.close();
   }
   
 }

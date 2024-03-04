@@ -8,5 +8,6 @@ public class X_less_than_Y {
     System.out.print("Enter the value of y: ");
     int y=sc.nextInt();
     System.out.println(x<y);
+    sc.close();
   }
 }

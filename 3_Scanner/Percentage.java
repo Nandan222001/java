@@ -53,7 +53,7 @@ public class Percentage {
     else {
       System.out.println("You are Fail");
     }
-    
+    sc.close();
 
   }
 }

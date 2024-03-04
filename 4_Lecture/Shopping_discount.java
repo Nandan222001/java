@@ -32,5 +32,6 @@ public class Shopping_discount {
       System.out.println("You will get no discount.");
       System.out.println("Final amount: "+spend+" rs");
     }
+    sc.close();
   }
 }

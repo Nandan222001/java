@@ -8,5 +8,6 @@ public class Division {
     int b=sc.nextInt();
     double div=a/b;
     System.out.println("Division: "+div);
+    sc.close();
   }
 }

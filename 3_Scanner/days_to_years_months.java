@@ -13,5 +13,6 @@ public class days_to_years_months {
     System.out.println("Years  : "+years);
     System.out.println("Months : "+months);
     System.out.println("Weeks  : "+weeks);
+    sc.close();
   }
 }

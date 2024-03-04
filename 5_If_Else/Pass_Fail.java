@@ -18,5 +18,6 @@ public class Pass_Fail {
     else {
       System.out.println("You are PASSED!!!");
     }
+    sc.close();
   }
 }

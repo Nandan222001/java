@@ -10,5 +10,6 @@ public class Perimeter_of_Triangle {
     int side3=sc.nextInt();
     int perimeter=side1+side2+side3;
     System.out.println("Perimeter of Triangle is: "+perimeter);
+    sc.close();
   }
 }

@@ -6,5 +6,6 @@ public class Perimeter_of_Square {
     int side=sc.nextInt();
     int perimeter=4*side;
     System.out.println("Perimeter of Square: "+perimeter);
+    sc.close();
   }
 }

@@ -10,5 +10,6 @@ public class Odd_Even {
     else {
       System.out.println(""+num+" is Odd Number.");
     }
+    sc.close();
   }
 }

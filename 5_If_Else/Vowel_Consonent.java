@@ -12,5 +12,6 @@ public class Vowel_Consonent {
       System.out.println(alphabet+" is a Consonent.");
     }
     System.out.println(alphabet);
+    sc.close();
   }
 }

@@ -8,5 +8,6 @@ public class Multiplication {
     int b=sc.nextInt();
     int mult=a*b;
     System.out.println("Mulriplication: "+mult);
+    sc.close();
   }
 }

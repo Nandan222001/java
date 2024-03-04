@@ -18,5 +18,6 @@ public class Greater_number_in_three {
     else {
       System.out.println(+num3+" is the Greatest.");
     }
+    sc.close();
   }
 }

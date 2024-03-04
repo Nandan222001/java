@@ -8,5 +8,6 @@ public class Area_of_Rectangle {
     int breadth=sc.nextInt();
     int area=length*breadth;
     System.out.println("Area of Rectangle: "+area+" sq unit");
+    sc.close();
   }
 }

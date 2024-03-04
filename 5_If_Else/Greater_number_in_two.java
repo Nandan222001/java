@@ -12,5 +12,6 @@ public class Greater_number_in_two {
     else {
       System.out.println(+num2+" is greater than "+num1);
     }
+    sc.close();
   }
 }

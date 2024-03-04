@@ -14,5 +14,6 @@ public class Simple_Interest {
     System.out.println("The Period of time is     : "+n+" years");
     System.out.println("The Simple Interest is    : "+si+" rs");
     System.out.println("The Total amount is       : "+(p+si)+" rs");
+    sc.close();
   }
 }

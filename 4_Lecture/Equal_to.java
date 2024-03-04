@@ -7,5 +7,6 @@ public class Equal_to {
     System.out.print("Enter the value of y: ");
     int y=sc.nextInt();
     System.out.println(x==y);
+    sc.close();
   }
 }
